@@ -2,23 +2,23 @@
 <p align="center"> <a href="https://github.com/anshuman067"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Data+Analyst+%7C+ML+Enthusiast;Software+Developer;Tech+Explorer+%7C+Open+Source+Contributor;B.Tech+Student+%40+GIETU" /> </a> </p>
 <p align="center"> Passionate <strong>Software Developer</strong> and <strong>Full Stack MERN Engineer</strong> with hands-on experience building real-world applications. I blend <strong>Data Analytics</strong>, <strong>Machine Learning</strong>, and <strong>Web Development</strong> to engineer seamless digital experiences and intelligent systems. <br><br> I believe in creating tech that feels fast, looks beautiful, and solves real problems. </p>
 🔥 About Me
+Hi! I'm Anshu, a Software Developer and a B.Tech CSE student who loves building apps that solve real-world problems.
+I specialize in Full Stack MERN, Data Analytics, and ML-based predictive systems.
 
-🎓 2nd-year B.Tech CSE Student passionate about scalable systems
+I enjoy:
 
+Creating clean, responsive, user-friendly applications
+Building data pipelines and dashboards
+Developing AI/ML models that actually make sense
+Improving experiences with UI/UX thinking
+I like to believe:
+"Good code is poetry written for machines… but readable by humans."
+🎓 4th-year B.Tech CSE Student passionate about scalable systems
 💻 I build full-stack projects, dashboards, and ML-powered apps
-
 📊 I enjoy converting raw data into meaningful insights
-
 🚀 Constantly learning, building, and improving
-
 🤝 Open to collaboration in Web Development, Data Analytics, and AI Projects
 
-💼 Experience
-Role	Organization	Type
-Software Development Engineer (SDE)	ASP OL Media	Experience
-Full Stack Developer	Yhills	Internship
-Data Analyst	Teachnook	Internship
-Machine Learning Trainee	NIT Raipur	Trainee
 🛠️ My Technical Arsenal
 💻 Languages
 <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
