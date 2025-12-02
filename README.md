@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm a 2nd-year B.Tech student passionate about building scalable web applications and designing intuitive user interfaces. Currently exploring the depths of the MERN stack and Database Management.
+  I'm a 4th-year B.Tech student passionate about building scalable web applications and designing intuitive user interfaces. Currently exploring the depths of the MERN stack and Database Management.
 </p>
 
 ---
