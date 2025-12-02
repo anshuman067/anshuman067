@@ -1,6 +1,6 @@
 <h1 align="center"><b>👋 Hey, I'm <span style="color:#4CFF00;">Anshuman Mohanty</span></b></h1>
 <p align="center"> <img src="https://media.giphy.com/media/3o7aD4eNO3mwQfO5Ek/giphy.gif" width="350px"/> </p> <p align="center"> <b>💻 Software Developer | 🔥 Full Stack Java Developer | 📊 Data Analyst | 🤖 ML Enthusiast</b><br> I build <b>high-performing backend systems</b>, create <b>beautiful front-end interfaces</b>, and design <b>intelligent data-driven solutions</b>. </p>
-<p align="center"> <a href="https://github.com/anshuman067"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10FF00&center=true&vCenter=true&width=650&lines=Software+Developer+from+India;Full+Stack+Java+Developer+(Spring+Boot);Machine+Learning+%7C+Data+Analytics;Building+Scalable+Systems+%26+Clean+Architectures;Always+Learning+%26+Improving" /> </a> </p>
+
 🧑‍💻 Who Is Anshuman Mohanty?
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"> </p>
 
