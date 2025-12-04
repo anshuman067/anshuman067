@@ -111,7 +111,7 @@ but the power of strong typing and clean architecture hits different ☕🔥.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:anshumanm132@gmail.com">
+  <a href="mailto:anshumanmohanty049@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/anshuman067">
