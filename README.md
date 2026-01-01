@@ -11,6 +11,10 @@
   I create <b>robust backends</b>, <b>beautiful frontends</b>, and <b>intelligent data-driven solutions</b>.
 </p>
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhzbjVzOWV0c294dm16Y3RlY3VuMmZsbHQ0YzJ5OGlkaTB0MXR5ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="350px"/>
+</p>
 <p align="center">
   <a href="https://github.com/anshuman067">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10FF00&center=true&vCenter=true&width=650&lines=Software+Developer+from+India;Full+Stack+Java+Developer+(Spring+Boot);Machine+Learning+%7C+Data+Analytics;Building+Scalable+Systems+%26+Clean+Architectures;Always+Learning+%26+Improving" />
