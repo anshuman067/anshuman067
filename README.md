@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>💻 Software Developer | 🔥 Full Stack Java Developer | 📊 Data Analyst | 🤖 ML Enthusiast</b><br>
+  <b>💻 Software Developer | 🔥 Full Stack Java Developer | 📊 Data Analyst | 🤖 ML Enthusiast and innovator</b><br>
   I create <b>robust backends</b>, <b>beautiful frontends</b>, and <b>intelligent data-driven solutions</b>.
 </p>
 
